@@ -1,1 +1,1 @@
-pyTelegramBotAPI
+google-genai

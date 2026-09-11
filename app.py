@@ -4,7 +4,7 @@ from google import genai
 
 # --- ការកំណត់ (Configuration) ---
 TELEGRAM_BOT_TOKEN = "8629057978:AAFgSqpLGa7Oi5bnCoNw36BF7b6q6PsA8IY"
-GEMINI_API_KEY = "AQ.Ab8RN6Iu8kV93Lm2JV7oLcm0GPv38QzDlT2u90mXxzrKyYvRyg"
+GEMINI_API_KEY = "AQ.Ab8RN6L7AGJYgJKyDDrqudtT7vNpdsafwV0N5aJ_z7iBycn8Ng"
 
 # បង្កើត Client ផ្លូវការរបស់ Google GenAI
 client = genai.Client(api_key=GEMINI_API_KEY)
